@@ -5,10 +5,10 @@ body{
     margin: 0px;
 
 }
-
 header{
     font-size: 60px;
-    border: double border 5px orange;
+    border-bottom:  double border 5px orange;
+    margin: 30px
 }
 h1{
     font-size: 40px;
